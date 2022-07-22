@@ -1,0 +1,295 @@
+.hk p{
+color: orange;
+
+}
+.hkr {
+    position:absolute;
+    right: 0%;
+    top: 0%;
+    
+}
+.nav-btns a:hover{
+    color: rgb(255, 166, 0);
+}
+.nav-btns a{
+    width:80%;
+    font-size: 110%;
+    display: flex;
+    justify-content:center;
+    height:40px;
+    margin-top: -8.2%;
+   text-decoration: none;
+    color: black;
+  
+    
+}
+.nav-btns2{
+    width: 700px;
+    margin-top: -4%;
+  display: flex;
+  justify-content:right;
+ 
+
+
+}
+.signup{
+    background-color: black;
+    color: white;
+    width: 18%;
+    height: 49px;
+    
+}
+/* .navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+    margin-top: 50px;
+    height:100px;
+} */
+#text{
+    position:absolute;
+    left:7%;
+    top: 38%;
+
+   font-size: 290%
+}
+.content{
+   position:absolute;
+   left: 7%;
+   top: 45%;
+}
+.search-btn{
+    position:absolute;
+    width: 9.6%;
+    height: 63.5px;
+    border:none;
+    background-color: #FC9109;
+    color:white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 18px;
+    position:absolute;
+    right: 53.7%;
+    top: 63.5%;
+}
+.searchbox input{
+    
+    position:absolute;
+    left: 7%;
+    top: 63.63%;
+    width: 290%;
+    height: 190%;
+    
+}
+::placeholder{
+    font-size: 20px;
+}
+
+/* .searchbox{
+    position:absolute;
+    left: 6%;
+    height:60px;
+    width:30%;
+    border: 1px solid;
+    padding-left: 20px;
+    outline: 10px;;
+    font-size: 18px;
+    color:black;
+    font-weight: bold;
+    position:absolute;
+}  */
+.flex-row{
+    display:inline-flex;
+    width: 55%;
+    justify-content:space-evenly;
+    margin-left: 3%;
+    color: black;
+    
+   
+}
+.pages1{
+    background-color: rgb(39, 17, 2);
+}
+.img1{
+    position:absolute;
+    top: 98%;
+    left:5%;
+    text-align: center;
+    color: azure;
+ 
+}
+.img2{
+   position:absolute;
+   top: 98.2%;
+   right:44%;
+   text-align: center;
+   color: azure;
+}
+.img3{
+    position:absolute;
+    top: 98%;
+    right:5%;
+    text-align: center;
+    color: azure;
+}
+.phone1{
+    
+    position:absolute;
+    right: 32%;
+}
+
+.phone2{
+    position:absolute;
+    right: 4%;
+    top: 180%;
+}
+.res{
+   position: absolute;
+   top: 200%;
+   color: rgb(0, 0, 12);
+   font-size: 200%;
+ width: 26%;
+padding: 0px 40px;
+padding-bottom: 10%;
+
+}
+.res1{
+   position: absolute;
+   top: 228%;
+   width: 29%;
+   padding: 0px 40px;
+   color: #7e808c;
+}
+
+.city:hover{
+    ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+}
+.googleplay{
+    position:absolute;
+    top: 246%;
+    
+    left: 4%;
+}
+
+.applestore{
+    position:absolute;
+    top: 246%;
+    
+    left: 19%;
+}
+   .pages3{
+       margin-top: 47%;
+background-color: black;
+   }
+.letter{
+    margin-top: -8%;
+    display: flex;
+    justify-content:space-evenly;
+    width: 70%;
+    color: ghostwhite;
+}
+.letter1{
+    margin-top: 6%;
+    margin-left: -25.2%;
+}
+.letter2{
+    margin-top: 6%;
+    margin-left: -24.2%;
+}
+
+.letter3{
+    margin-top: 6%;
+    margin-left: -22.2%;
+}
+.googleplayy{
+  position:absolute;
+  right: 50px;
+  top: 300%;
+}
+.googleplayy:hover{
+    ms-transform: scale(1.1); 
+  -webkit-transform: scale(1.1); 
+  transform: scale(1.1); 
+}
+.applestoree{
+    
+    position:absolute;
+    right: 50px;
+    top: 278%;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.applestoree:hover{
+    ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+}
+.foot{
+
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 1%;
+}
+
+.foot p{
+    margin-top: -1%;
+    position:absolute;
+    right: 50%;
+   top: 356%;
+    color:rgb(250, 250, 250); 
+    font-size: x-large;
+}
+
+
+
+.fb{
+position:absolute;
+right: 22%;
+bottom: -260%;
+}
+.fb:hover{
+    ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+}
+.pintrest{
+    position:absolute;
+    right: 16%;
+    bottom: -260%;
+}
+
+.pintrest :hover{
+    ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+}
+.instagram{
+    position:absolute;
+    right: 9%;
+    bottom: -260%;
+}
+.instagram :hover{
+    ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+}
+.Twitter{
+    position:absolute;
+    right: 3%;
+    bottom: -260%;
+}
+.Twitter:hover{
+    ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1); 
+}
+@media only screen and (min-device-width: 800px){
+    .column{
+        flex: 50%;
+        min-width: 100%; 
+    }
+          }
